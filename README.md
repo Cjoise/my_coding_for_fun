@@ -1,1 +1,1 @@
-# pet_projects
+# samples of my coding experience just for fun
